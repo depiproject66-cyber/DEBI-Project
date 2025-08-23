@@ -24,7 +24,7 @@
 | 🎯 **Waheed Ahmed Waheed** |
 | 🎯 **Esraa Farhat Abou El-Azm** |
 | 🎯 **Nermine Youssef Abou El Fotouh** |
-| 🎯 **Mariam Abdelmoneim Hassan** |
+| 🎯 **Maryam Abdel-Moneim Hegazy** |
 | 🎯 **Ibrahim Ahmed Elamir** |
 
 </div>
