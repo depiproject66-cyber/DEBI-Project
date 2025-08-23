@@ -22,9 +22,9 @@
 |--------|
 | 🎯 **Mostafa Emad Mostafa** |
 | 🎯 **Waheed Ahmed Waheed** |
-| 🎯 **Esraa Farhat Mohamed** |
+| 🎯 **Esraa Farhat Abou El-Azm** |
 | 🎯 **Nermine Youssef Abou El Fotouh** |
 | 🎯 **Mariam Abdelmoneim Hassan** |
-| 🎯 **Ibrahim Ahmed Hassan** |
+| 🎯 **Ibrahim Ahmed Elamir** |
 
 </div>
