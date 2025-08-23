@@ -16,7 +16,7 @@
 
 ---
 
-## 👥 Team Members - Group 3
+## 👥 Team Members - Group 1
 
 | Member |
 |--------|
