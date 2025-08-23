@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🎓 Project Name
+🎓 Project Name
 **EGXplore - Project**  
 
 <div align="center">
