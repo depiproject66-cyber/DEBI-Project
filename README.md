@@ -1,7 +1,7 @@
 <div align="center">
 
-##🌱 Project Name
-**EGXplore - Project**  
+## 🌱 Project Name
+ **EGXplore - Project**  
 
 <div align="center">
   
