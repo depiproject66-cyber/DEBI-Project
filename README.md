@@ -1,3 +1,7 @@
+<div align="center">
+
+## 🌱 Project Files
+
 <h1 align="center">EGXplore - Project</h1>
 
 <div align="center">
